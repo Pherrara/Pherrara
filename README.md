@@ -1,4 +1,4 @@
-Hi, I'm a graduated physicist, my interests lie in computational applications to physics and mathematics, data analysis, machine learning, AI, neural networks and much more.
+Hi, I'm a graduated physicist, my interests lie in computational applications to physics and mathematics, physics engines, data analysis, machine learning, AI, neural networks and much more.
 
 My go-to programming languages are Python and C, based on what I'm working with and what I need to achieve.
 
