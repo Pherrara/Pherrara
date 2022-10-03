@@ -6,6 +6,6 @@ I have knowledges of HTML, CSS and Javascript because I like making things easil
 
 I would like to learn R, C++ and Rust in the future.
 
-My favourite IDE is Visual Studio Code, and I love versioning just about everything I work on with Git and Github.
+My favourite IDEs are Jupyter Lab and Visual Studio Code, plus I love versioning just about everything I work on with Git and Github.
 
 Feel free to contact me for anything interesting.
