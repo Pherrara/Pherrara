@@ -9,3 +9,5 @@ I would like to learn SQL, R, C++ and Rust in the future.
 My favourite IDEs are Jupyter Lab and Visual Studio Code, plus I love versioning just about everything I work on with Git and Github.
 
 Feel free to contact me for anything interesting.
+
+Check out my [Web Portfolio with nothing in it](https://pherrara.github.io/portfolio.github.io/).
